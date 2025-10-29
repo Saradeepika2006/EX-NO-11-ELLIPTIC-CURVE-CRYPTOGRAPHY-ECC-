@@ -26,7 +26,7 @@ To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 5. Security: ECC’s security relies on the Elliptic Curve Discrete Logarithm Problem (ECDLP), making it highly secure with shorter key lengths compared to traditional methods like RSA.
 
 ## Program:
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -148,6 +148,7 @@ int main(void) {
 
     return 0;
 }
+```
 
 ## Output:
 <img width="521" height="329" alt="Screenshot 2025-10-29 084214" src="https://github.com/user-attachments/assets/0cd704c0-1ed5-4e79-baae-69b59b23fe9b" />
